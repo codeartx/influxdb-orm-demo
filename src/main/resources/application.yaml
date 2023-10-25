@@ -1,0 +1,6 @@
+spring:
+  influx:
+    url: http://localhost:8086
+    org: xxx-org
+    token: xxxxxxxxxxx
+    bucket: xxxx-bucket
